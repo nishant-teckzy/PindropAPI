@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Properties>
+        <!--<Property name="APP_LOG_ROOT">${bundle:application:app.dir}/logs</Property>-->
+        <!--<Property name="APP_LOG_ROOT">${sys:catalina.base:-.}/logs</Property>-->
+        <Property name="APP_LOG_ROOT">./logs</Property>
+    </Properties>
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout
+                    pattern="%style{%d{ISO8601}}{black} %highlight{%-5level }[%style{%t}{bright,blue}] %style{%C{1.}}{bright,yellow}: %msg%n%throwable"/>
+        </Console>
+
+
+        <RollingFile name="PindropLogger" fileName="${APP_LOG_ROOT}/pindrop.log"
+                     append="true" filePattern="${APP_LOG_ROOT}/pindrop-%i.log">
+            <PatternLayout>
+                <pattern>%style{%d{ISO8601}}{black} %highlight{%-5level }[%style{%t}{bright,blue}]
+                    %style{%C{1.}}{bright,yellow}: %msg%n%throwable
+                </pattern>
+            </PatternLayout>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="50 mb"/>
+            </Policies>
+
+            <DefaultRolloverStrategy max="5"/>
+
+        </RollingFile>
+
+        <RollingFile name="GenesysLogger" fileName="${APP_LOG_ROOT}/genesys_sms.log"
+                     append="true" filePattern="${APP_LOG_ROOT}/genesys_sms-%i.log">
+            <PatternLayout>
+                <pattern>%style{%d{ISO8601}}{black} %highlight{%-5level }[%style{%t}{bright,blue}]
+                    %style{%C{1.}}{bright,yellow}: %msg%n%throwable
+                </pattern>
+            </PatternLayout>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="50 mb"/>
+            </Policies>
+
+            <DefaultRolloverStrategy max="5"/>
+
+        </RollingFile>
+
+    </Appenders>
+
+    <Loggers>
+        <!-- LOG everything at INFO level -->
+        <Root level="error">
+            <AppenderRef ref="Console"/>
+
+        </Root>
+<!--        <logger name="org.springframework" level="debug" additivity="false">-->
+<!--            <appender-ref ref="PindropLogger"/>-->
+<!--        </logger>-->
+        <Logger name="com.novelvox.nbh.pindrop" level="debug" additivity="false">
+            <appender-ref ref="PindropLogger" />
+            <AppenderRef ref="Console"/>
+        </Logger>
+
+        <Logger name="com.novelvox.nbh.genesys" level="debug" additivity="false">
+            <appender-ref ref="GenesysLogger" />
+            <AppenderRef ref="Console"/>
+        </Logger>
+
+        <!-- LOG "com.baeldung*" at TRACE level -->
+        <!--<SpringProfile name="!dev, !prod">
+           <Logger name="com.nv.ccm" level="trace"></Logger>
+        </SpringProfile>
+
+        <SpringProfile name="dev">
+           <Logger name="com.nv.ccm" level="debug"></Logger>
+        </SpringProfile>
+
+        <SpringProfile name="prod_sqlite">
+           <Logger name="com.nv.ccm" level="error">
+              <AppenderRef ref="RollingFile" />
+           </Logger>
+        </SpringProfile>-->
+
+    </Loggers>
+
+</Configuration>

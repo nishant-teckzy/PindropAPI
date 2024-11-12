@@ -1,0 +1,60 @@
+server:
+  port: 8082
+genesys :
+  otp:
+    expiration_min: 5
+    length: 6
+    fromAddress: "+18162088896"
+    toAddressMessengerType: sms
+    pre_text: Your Banking One Time Pin is
+pindrop:
+  call_control:
+    url: https://secure2.pindrop.io/v1/
+spring:
+  application:
+    name: NVPindropClient
+  security:
+    oauth2:
+      client:
+        provider:
+          pindrop:
+            token-uri: https://auth.pindrop.io/oauth2/token
+          genesys_sms:
+            token-uri: https://login.usw2.pure.cloud/oauth/token
+        registration:
+          Pindrop:
+            client-id:
+            client-secret: 
+            authorization-grant-type: client_credentials
+            client-authentication-method: client_secret_post
+            provider: pindrop
+          GenesysSms:
+            client-id:
+            client-secret:
+            authorization-grant-type: client_credentials
+            client-authentication-method: client_secret_post
+            provider: genesys_sms
+
+  cloud:
+    openfeign:
+      client:
+        config:
+          Pindrop:
+            url: https://api2.pindrop.io/v1/
+            connectTimeout: 5000
+            readTimeout: 5000
+            encoder: feign.jackson.JacksonEncoder
+            decoder: feign.jackson.JacksonDecoder
+            errorDecoder:  com.novelvox.nbh.pindrop.client.configs.FeignErrDecoder
+            loggerLevel: full
+            retryer: com.novelvox.nbh.pindrop.client.configs.FeignRetryer
+          GenesysSms:
+            url: https://api.usw2.pure.cloud/api/v2/
+            connectTimeout: 5000
+            readTimeout: 5000
+            encoder: feign.jackson.JacksonEncoder
+            decoder: feign.jackson.JacksonDecoder
+            errorDecoder: com.novelvox.nbh.genesys.client.configs.FeignErrDecoder
+            loggerLevel: full
+      oauth2:
+        enabled: false

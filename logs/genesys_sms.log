@@ -1,0 +1,47 @@
+2024-11-05T23:08:00,164 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: 19999999999, toAddressMessengerType: sms
+2024-11-05T23:08:52,190 INFO  [http-nio-8082-exec-1]
+                    c.n.n.g.c.c.GenesysRequestInterceptor: OAuthToken >> 2024-11-06T17:38:51.189651500Z
+2024-11-05T23:08:53,695 ERROR [http-nio-8082-exec-1]
+                    c.n.n.g.c.GenesysExceptionAdvice: FeignException caught: Status code: 200, Reason: Cannot deserialize value of type `java.lang.String` from Object value (token `JsonToken.START_OBJECT`)
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 1] reading GET https://api2.pindrop.io/v1/attribute_definition, Message: 
+2024-11-05T23:24:47,615 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: 19999999999, toAddressMessengerType: sms
+2024-11-05T23:25:45,769 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: 19999999999, toAddressMessengerType: sms
+2024-11-05T23:28:08,525 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: 19999999999, toAddressMessengerType: sms
+2024-11-05T23:43:28,550 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: 19999999999, toAddressMessengerType: sms
+2024-11-05T23:53:18,310 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: 19999999999, toAddressMessengerType: sms
+2024-11-05T23:54:47,076 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: 19999999999, toAddressMessengerType: sms
+2024-11-05T23:57:48,743 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: 19999999999, toAddressMessengerType: sms
+2024-11-06T00:02:50,410 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: 19999999999, toAddressMessengerType: sms
+2024-11-06T00:05:27,682 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: 19999999999, toAddressMessengerType: sms
+2024-11-06T00:06:42,921 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: 19999999999, toAddressMessengerType: sms
+2024-11-06T00:21:59,899 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: 18162088896, toAddressMessengerType: sms
+2024-11-06T00:22:55,499 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: +18162088896, toAddressMessengerType: sms
+2024-11-06T15:28:07,727 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: +18162088896, toAddressMessengerType: sms
+2024-11-06T15:33:39,554 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: +18162088896, toAddressMessengerType: sms
+2024-11-06T15:35:22,273 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: +18162088896, toAddressMessengerType: sms
+2024-11-06T15:37:33,636 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: +18162088896, toAddressMessengerType: sms
+2024-11-06T15:38:42,124 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: +18162088896, toAddressMessengerType: sms
+2024-11-06T15:42:18,493 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: +18162088896, toAddressMessengerType: sms
+2024-11-06T15:43:34,408 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: +18162088896, toAddressMessengerType: sms
+2024-11-06T15:47:12,959 INFO  [main]
+                    c.n.n.g.c.s.OtpService: OtpService initialized with expirationMinutes: 5, otpLength: 6, fromAddress: +18162088896, toAddressMessengerType: sms

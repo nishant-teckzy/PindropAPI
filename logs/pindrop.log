@@ -1,0 +1,758 @@
+2024-09-17T15:05:58,808 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 11980 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-17T15:05:58,817 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-17T15:05:58,820 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-17T15:15:06,013 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 21444 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-17T15:15:06,024 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-17T15:15:06,026 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-17T15:15:46,428 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 12132 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-17T15:15:46,437 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-17T15:15:46,439 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-17T15:16:44,829 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 1080 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-17T15:16:44,839 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-17T15:16:44,841 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-17T15:16:47,363 INFO  [main]
+                    o.s.b.StartupInfoLogger: Started NvPindropClientApplication in 3.218 seconds (process running for 4.205)
+2024-09-17T15:18:58,783 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 11620 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-17T15:18:58,792 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-17T15:18:58,795 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-17T15:19:01,969 INFO  [main]
+                    o.s.b.StartupInfoLogger: Started NvPindropClientApplication in 3.941 seconds (process running for 4.818)
+2024-09-17T15:26:37,869 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 11108 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-17T15:26:37,881 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-17T15:26:37,883 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-17T16:30:03,683 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 10984 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-17T16:30:03,694 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-17T16:30:03,696 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-17T16:36:16,191 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 18904 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-17T16:36:16,208 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-17T16:36:16,210 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-17T16:36:20,044 INFO  [main]
+                    o.s.b.StartupInfoLogger: Started NvPindropClientApplication in 4.823 seconds (process running for 5.854)
+2024-09-17T16:39:16,088 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 22232 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-17T16:39:16,097 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-17T16:39:16,098 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-17T16:40:35,882 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 14680 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-17T16:40:35,897 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-17T16:40:35,899 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-17T16:40:38,741 INFO  [main]
+                    o.s.b.StartupInfoLogger: Started NvPindropClientApplication in 3.621 seconds (process running for 4.579)
+2024-09-17T16:45:03,950 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 19996 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-17T16:45:03,961 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-17T16:45:03,963 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-17T16:45:06,863 INFO  [main]
+                    o.s.b.StartupInfoLogger: Started NvPindropClientApplication in 3.648 seconds (process running for 4.543)
+2024-09-17T17:38:57,643 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 19052 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-17T17:38:57,654 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-17T17:38:57,656 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-17T17:39:02,542 INFO  [main]
+                    o.s.b.StartupInfoLogger: Started NvPindropClientApplication in 5.747 seconds (process running for 7.166)
+2024-09-17T17:42:24,379 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 14704 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-17T17:42:24,396 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-17T17:42:24,400 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-17T17:42:46,263 INFO  [main]
+                    o.s.b.StartupInfoLogger: Started NvPindropClientApplication in 22.957 seconds (process running for 24.049)
+2024-09-19T16:32:53,426 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 1180 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-19T16:32:53,482 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-19T16:32:53,486 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-19T16:35:10,738 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 3356 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-19T16:35:10,749 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-19T16:35:10,752 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-19T16:41:43,818 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 24500 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-19T16:41:43,828 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-19T16:41:43,830 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-19T16:43:37,235 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 24300 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-19T16:43:37,254 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-19T16:43:37,260 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-19T16:51:15,508 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 12268 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-19T16:51:15,519 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-19T16:51:15,521 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-19T16:51:56,008 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 24984 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-19T16:51:56,019 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-19T16:51:56,021 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-19T16:52:00,854 INFO  [main]
+                    o.s.b.StartupInfoLogger: Started NvPindropClientApplication in 5.581 seconds (process running for 6.639)
+2024-09-19T16:53:03,564 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 23908 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-19T16:53:03,578 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-19T16:53:03,581 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-19T16:53:07,945 INFO  [main]
+                    o.s.b.StartupInfoLogger: Started NvPindropClientApplication in 5.063 seconds (process running for 6.365)
+2024-09-20T12:45:03,550 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 19500 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-20T12:45:03,560 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-20T12:45:03,562 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-20T12:45:09,109 INFO  [main]
+                    o.s.b.StartupInfoLogger: Started NvPindropClientApplication in 6.441 seconds (process running for 8.548)
+2024-09-20T15:43:01,131 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 25644 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-20T15:43:01,142 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-20T15:43:01,144 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-20T15:43:05,904 INFO  [main]
+                    o.s.b.StartupInfoLogger: Started NvPindropClientApplication in 5.499 seconds (process running for 6.4)
+2024-09-20T15:47:24,109 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 12468 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-20T15:47:24,121 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-20T15:47:24,123 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-20T15:47:28,622 INFO  [main]
+                    o.s.b.StartupInfoLogger: Started NvPindropClientApplication in 5.261 seconds (process running for 6.19)
+2024-09-20T15:47:34,016 TRACE [http-nio-8080-exec-1]
+                    c.n.p.Controller: RESTController
+2024-09-20T15:49:38,572 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 16912 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-20T15:49:38,582 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-20T15:49:38,584 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-20T15:49:42,959 INFO  [main]
+                    o.s.b.StartupInfoLogger: Started NvPindropClientApplication in 5.102 seconds (process running for 5.972)
+2024-09-20T15:49:56,706 TRACE [http-nio-8080-exec-1]
+                    c.n.p.Controller: RESTController
+2024-09-20T15:49:57,690 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] ---> POST https://api2.pindrop.io/v1/authenticate?interaction_id=7ef4e2cd-7ca2-4c9b-9e4f-4bccced05a58&interactionId=7ef4e2cd-7ca2-4c9b-9e4f-4bccced05a58 HTTP/1.1
+2024-09-20T15:49:57,691 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] Authorization: Bearer H1WeH46t4ogXc-gzHt8Oqcxk-5v9bYB4HpV7fJUDuns.RZTVYWalZP2KNR8Dsz2MLqcwRjfnQ7R9HIU0OxqPKQw
+2024-09-20T15:49:57,692 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] ---> END HTTP (0-byte body)
+2024-09-20T15:49:59,161 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] <--- HTTP/1.1 404 Not Found (1468ms)
+2024-09-20T15:49:59,161 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] connection: keep-alive
+2024-09-20T15:49:59,162 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] content-length: 112
+2024-09-20T15:49:59,162 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] content-type: application/json
+2024-09-20T15:49:59,162 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] date: Fri, 20 Sep 2024 10:19:59 GMT
+2024-09-20T15:49:59,162 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] server: awselb/2.0
+2024-09-20T15:49:59,162 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] strict-transport-security: max-age=15724800; includeSubDomains
+2024-09-20T15:49:59,163 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] 
+2024-09-20T15:49:59,163 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] {"errors":[{"code":"","detail":"Interaction Not Found","id":"5dee22d15a485383f48410fe0164186a","status":"404"}]}
+2024-09-20T15:49:59,163 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] <--- END HTTP (112-byte body)
+2024-09-20T15:51:11,416 TRACE [http-nio-8080-exec-3]
+                    c.n.p.Controller: RESTController
+2024-09-20T15:51:11,420 DEBUG [http-nio-8080-exec-3]
+                    f.s.Slf4jLogger: [Client#authenticate] ---> POST https://api2.pindrop.io/v1/authenticate?interaction_id=7ef4e2cd-7ca2-4c9b-9e4f-4bccced05a58&interactionId=7ef4e2cd-7ca2-4c9b-9e4f-4bccced05a58 HTTP/1.1
+2024-09-20T15:51:11,421 DEBUG [http-nio-8080-exec-3]
+                    f.s.Slf4jLogger: [Client#authenticate] Authorization: Bearer H1WeH46t4ogXc-gzHt8Oqcxk-5v9bYB4HpV7fJUDuns.RZTVYWalZP2KNR8Dsz2MLqcwRjfnQ7R9HIU0OxqPKQw
+2024-09-20T15:51:11,422 DEBUG [http-nio-8080-exec-3]
+                    f.s.Slf4jLogger: [Client#authenticate] ---> END HTTP (0-byte body)
+2024-09-20T15:51:12,856 DEBUG [http-nio-8080-exec-3]
+                    f.s.Slf4jLogger: [Client#authenticate] <--- HTTP/1.1 404 Not Found (1431ms)
+2024-09-20T15:51:12,857 DEBUG [http-nio-8080-exec-3]
+                    f.s.Slf4jLogger: [Client#authenticate] connection: keep-alive
+2024-09-20T15:51:12,864 DEBUG [http-nio-8080-exec-3]
+                    f.s.Slf4jLogger: [Client#authenticate] content-length: 112
+2024-09-20T15:51:12,868 DEBUG [http-nio-8080-exec-3]
+                    f.s.Slf4jLogger: [Client#authenticate] content-type: application/json
+2024-09-20T15:51:12,871 DEBUG [http-nio-8080-exec-3]
+                    f.s.Slf4jLogger: [Client#authenticate] date: Fri, 20 Sep 2024 10:21:13 GMT
+2024-09-20T15:51:12,872 DEBUG [http-nio-8080-exec-3]
+                    f.s.Slf4jLogger: [Client#authenticate] server: awselb/2.0
+2024-09-20T15:51:12,875 DEBUG [http-nio-8080-exec-3]
+                    f.s.Slf4jLogger: [Client#authenticate] strict-transport-security: max-age=15724800; includeSubDomains
+2024-09-20T15:51:12,877 DEBUG [http-nio-8080-exec-3]
+                    f.s.Slf4jLogger: [Client#authenticate] 
+2024-09-20T15:51:12,881 DEBUG [http-nio-8080-exec-3]
+                    f.s.Slf4jLogger: [Client#authenticate] {"errors":[{"code":"","detail":"Interaction Not Found","id":"4c86c057141b7354d44b81b6529b4a51","status":"404"}]}
+2024-09-20T15:51:12,883 DEBUG [http-nio-8080-exec-3]
+                    f.s.Slf4jLogger: [Client#authenticate] <--- END HTTP (112-byte body)
+2024-09-20T16:20:38,420 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 26576 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-20T16:20:38,434 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-20T16:20:38,437 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-20T16:20:42,845 INFO  [main]
+                    o.s.b.StartupInfoLogger: Started NvPindropClientApplication in 5.151 seconds (process running for 6.011)
+2024-09-20T16:21:53,352 TRACE [http-nio-8080-exec-1]
+                    c.n.p.Controller: RESTController
+2024-09-20T16:21:54,673 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] ---> POST https://api2.pindrop.io/v1/authenticate?interaction_id=7ef4e2cd-7ca2-4c9b-9e4f-4bccced05a58&interactionId=7ef4e2cd-7ca2-4c9b-9e4f-4bccced05a58 HTTP/1.1
+2024-09-20T16:21:54,674 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] Authorization: Bearer vM1edLmtfJOM3ElRK5U-9rrcFYlG2VDFHIs4jT6Rdog.75XK5JIwn3Kxj6RKq4z2GQf9votllg2zhcnUyXc0LVE
+2024-09-20T16:21:54,675 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] ---> END HTTP (0-byte body)
+2024-09-20T16:21:55,981 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] <--- HTTP/1.1 404 Not Found (1306ms)
+2024-09-20T16:21:55,982 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] connection: keep-alive
+2024-09-20T16:21:55,983 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] content-length: 112
+2024-09-20T16:21:55,984 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] content-type: application/json
+2024-09-20T16:21:55,984 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] date: Fri, 20 Sep 2024 10:51:56 GMT
+2024-09-20T16:21:55,985 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] server: awselb/2.0
+2024-09-20T16:21:55,985 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] strict-transport-security: max-age=15724800; includeSubDomains
+2024-09-20T16:21:55,987 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] 
+2024-09-20T16:21:55,987 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] {"errors":[{"code":"","detail":"Interaction Not Found","id":"6e7f0636490f0deb380bb49155528e4b","status":"404"}]}
+2024-09-20T16:21:55,987 DEBUG [http-nio-8080-exec-1]
+                    f.s.Slf4jLogger: [Client#authenticate] <--- END HTTP (112-byte body)
+2024-09-23T12:15:28,505 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 20640 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-23T12:15:28,557 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-23T12:15:28,560 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-24T13:43:53,156 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 17636 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-24T13:43:53,201 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-24T13:43:53,204 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-24T13:46:24,831 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 4424 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-24T13:46:24,844 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-24T13:46:24,846 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-24T16:14:00,853 INFO  [main]
+                    o.s.b.StartupInfoLogger: Starting NvPindropClientApplication using Java 17.0.9 with PID 18652 (D:\Projects-US\NBH\NVPindropClient\build\classes\java\main started by Nishant in D:\Projects-US\NBH\NVPindropClient)
+2024-09-24T16:14:00,899 DEBUG [main]
+                    o.s.b.StartupInfoLogger: Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-24T16:14:00,901 INFO  [main]
+                    o.s.b.SpringApplication: No active profile set, falling back to 1 default profile: "default"
+2024-09-24T16:14:04,658 INFO  [main]
+                    c.n.p.c.OAuthFeignConfig: OAuthToken >> 2024-09-24T11:44:03.654072200Z
+2024-09-24T16:14:05,853 INFO  [main]
+                    o.s.b.StartupInfoLogger: Started NvPindropClientApplication in 5.849 seconds (process running for 6.724)
+2024-11-05T23:08:47,911 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /attributes endpoint
+2024-11-05T23:08:47,951 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.s.PindropService: Fetching attribute definitions...
+2024-11-05T23:08:50,778 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.c.PindropRequestInterceptor: OAuthToken >> 2024-11-05T18:38:49.774309900Z
+2024-11-05T23:08:52,200 DEBUG [http-nio-8082-exec-1]
+                    f.s.Slf4jLogger: [PindropClient#getAttributeDef] ---> GET https://api2.pindrop.io/v1/attribute_definition HTTP/1.1
+2024-11-05T23:08:52,201 DEBUG [http-nio-8082-exec-1]
+                    f.s.Slf4jLogger: [PindropClient#getAttributeDef] Authorization: Bearer ItI0UfbXaqqpiSg1DXTBOBYmPS2j0fdpmf000DieJDQ.iBa0TmsWZb9rJCV6kD6xZ3rLhlOvVkwg62bQEmsrjKY
+2024-11-05T23:08:52,204 DEBUG [http-nio-8082-exec-1]
+                    f.s.Slf4jLogger: [PindropClient#getAttributeDef] ---> END HTTP (0-byte body)
+2024-11-05T23:08:53,635 DEBUG [http-nio-8082-exec-1]
+                    f.s.Slf4jLogger: [PindropClient#getAttributeDef] <--- HTTP/1.1 200 OK (1429ms)
+2024-11-05T23:08:53,637 DEBUG [http-nio-8082-exec-1]
+                    f.s.Slf4jLogger: [PindropClient#getAttributeDef] connection: keep-alive
+2024-11-05T23:08:53,638 DEBUG [http-nio-8082-exec-1]
+                    f.s.Slf4jLogger: [PindropClient#getAttributeDef] content-length: 6292
+2024-11-05T23:08:53,638 DEBUG [http-nio-8082-exec-1]
+                    f.s.Slf4jLogger: [PindropClient#getAttributeDef] content-type: application/json
+2024-11-05T23:08:53,639 DEBUG [http-nio-8082-exec-1]
+                    f.s.Slf4jLogger: [PindropClient#getAttributeDef] date: Tue, 05 Nov 2024 17:38:54 GMT
+2024-11-05T23:08:53,640 DEBUG [http-nio-8082-exec-1]
+                    f.s.Slf4jLogger: [PindropClient#getAttributeDef] server: awselb/2.0
+2024-11-05T23:08:53,641 DEBUG [http-nio-8082-exec-1]
+                    f.s.Slf4jLogger: [PindropClient#getAttributeDef] strict-transport-security: max-age=15724800; includeSubDomains
+2024-11-05T23:08:53,642 DEBUG [http-nio-8082-exec-1]
+                    f.s.Slf4jLogger: [PindropClient#getAttributeDef] 
+2024-11-05T23:08:53,642 DEBUG [http-nio-8082-exec-1]
+                    f.s.Slf4jLogger: [PindropClient#getAttributeDef] {"data":{"available_attributes":{"14b9602c-3509-4055-ad3b-1f129c49cab0":{"attribute":{"available_for_policies":false,"call_details_visible":true,"case_closure_requirement":"OPTIONAL","case_details_visible":true,"create_time":"1714772745203168594","data_type":"BOOLEAN","description":"Was the ANI suspected of being spoofed?","include_in_csv_export":false,"is_enum":false,"name":"ANI Spoofing Suspected","searchable":true,"uuid":"14b9602c-3509-4055-ad3b-1f129c49cab0"},"modified":false},"1a4946e5-d24c-47ff-8b1b-488781cffe3c":{"attribute":{"available_for_policies":false,"call_details_visible":true,"case_closure_requirement":"OPTIONAL","case_details_visible":true,"create_time":"1714772745203166325","data_type":"BOOLEAN","description":"Did the caller attempt a monetary transaction?","include_in_csv_export":false,"is_enum":false,"name":"Attempted Monetary Transaction","searchable":true,"uuid":"1a4946e5-d24c-47ff-8b1b-488781cffe3c"},"modified":false},"40c36f39-36a0-4b75-87d5-c7de6fd27078":{"attribute":{"available_for_policies":true,"call_details_visible":true,"case_closure_requirement":"OPTIONAL","case_details_visible":true,"create_time":"1714772745203167012","data_type":"BOOLEAN","description":"Within 30 days (Address, Phone Number, Email Address etc)","include_in_csv_export":false,"is_enum":false,"name":"Recent Profile Changes","searchable":true,"uuid":"40c36f39-36a0-4b75-87d5-c7de6fd27078"},"modified":false},"ac57d4ee-4547-4d5f-8a59-4b2cf1bce3a6":{"attribute":{"available_for_policies":true,"call_details_visible":true,"case_closure_requirement":"OPTIONAL","case_details_visible":true,"create_time":"1714772745203166087","data_type":"STRING","description":"Total Value of Account(s).  An Example would be (High, Moderate, Low, Zero)","include_in_csv_export":false,"is_enum":true,"list_type_values":["High","Moderate","Low","Zero"],"name":"Account Balance Indicator","searchable":true,"uuid":"ac57d4ee-4547-4d5f-8a59-4b2cf1bce3a6"},"modified":false},"b312923b-7908-447c-8fff-c1db0227e2da":{"attribute":{"available_for_policies":false,"call_details_visible":true,"case_closure_requirement":"OPTIONAL","case_details_visible":true,"create_time":"1714772745203168305","data_type":"BOOLEAN","description":"Did the caller attempt a non-monetary transaction?","include_in_csv_export":false,"is_enum":false,"name":"Attempted Non-Monetary Transaction","searchable":true,"uuid":"b312923b-7908-447c-8fff-c1db0227e2da"},"modified":false},"bed7f8f9-0965-4171-99bd-4ae84311a583":{"attribute":{"available_for_policies":false,"call_details_visible":true,"case_closure_requirement":"OPTIONAL","case_details_visible":true,"create_time":"1714772745203165872","data_type":"STRING","description":"What account action was taken as a result of this alert?","include_in_csv_export":false,"is_enum":true,"list_type_values":["Locked Account","Unlocked Account","None"],"name":"Remediation Actions","searchable":true,"uuid":"bed7f8f9-0965-4171-99bd-4ae84311a583"},"modified":false},"e466efe2-f915-4380-968c-72b8b2dad9de":{"attribute":{"available_for_policies":false,"call_details_visible":true,"case_closure_requirement":"OPTIONAL","case_details_visible":true,"create_time":"1714772745203168865","data_type":"STRING","description":"Is this a known fraudster?","include_in_csv_export":false,"is_enum":true,"name":"Fraudster Alias","searchable":true,"uuid":"e466efe2-f915-4380-968c-72b8b2dad9de"},"modified":false},"e61ba30d-7c05-430d-a10c-3e50a2179c1d":{"attribute":{"available_for_policies":true,"call_details_visible":true,"case_closure_requirement":"OPTIONAL","case_details_visible":true,"create_time":"1714772745203166747","data_type":"STRING","description":"What was the account status at call-time?","include_in_csv_export":false,"is_enum":true,"list_type_values":["Open","Restricted","Closed","Other"],"name":"Account Status","searchable":true,"uuid":"e61ba30d-7c05-430d-a10c-3e50a2179c1d"},"modified":false}},"disabled_attributes":{},"enabled_attributes":{"customer_defined":{"b27429f5-f943-4834-ab3b-839316bd8b90":{"available_for_policies":false,"call_details_visible":false,"case_closure_requirement":"OPTIONAL","case_details_visible":true,"create_time":"1723823596101861005","data_type":"NUMERIC","description":"","include_in_csv_export":true,"is_enum":false,"name":"Verafin Case Number","searchable":true,"uuid":"b27429f5-f943-4834-ab3b-839316bd8b90"}},"pindrop_defined":{"5b0f92ed-c6d9-4a58-b42b-39860fa0d3d8":{"attribute":{"available_for_policies":false,"call_details_visible":false,"case_closure_requirement":"OPTIONAL","case_details_visible":true,"create_time":"1719859676634413339","data_type":"BOOLEAN","description":"Is the calling ANI on-file for the caller?","include_in_csv_export":true,"is_enum":false,"name":"ANI On-File","searchable":true,"uuid":"5b0f92ed-c6d9-4a58-b42b-39860fa0d3d8"},"modified":true},"5f0800a7-fcc3-49f9-83a1-7c1cf3c1ca94":{"attribute":{"available_for_policies":false,"call_details_visible":false,"case_closure_requirement":"OPTIONAL","case_details_visible":true,"create_time":"1719859406450556974","data_type":"BOOLEAN","description":"Added an external account, new card issued, opened a new account, updated online username/password","include_in_csv_export":true,"is_enum":false,"name":"Recent Account Updates","searchable":true,"uuid":"5f0800a7-fcc3-49f9-83a1-7c1cf3c1ca94"},"modified":true},"a11ba29f-526f-4416-96c6-5c17b9e7b437":{"attribute":{"available_for_policies":false,"call_details_visible":false,"case_closure_requirement":"OPTIONAL","case_details_visible":true,"create_time":"1719859356863787271","data_type":"STRING","description":"","include_in_csv_export":true,"is_enum":true,"list_type_values":["Pass","Fail","NA"],"name":"KBA Authentication","searchable":true,"uuid":"a11ba29f-526f-4416-96c6-5c17b9e7b437"},"modified":true},"c8933fbc-0748-47ce-9419-a2bbe1d2aafa":{"attribute":{"available_for_policies":false,"call_details_visible":false,"case_closure_requirement":"OPTIONAL","case_details_visible":true,"create_time":"1719859361213497857","data_type":"STRING","description":"","include_in_csv_export":true,"is_enum":true,"list_type_values":["Pass","Fail","NA"],"name":"OTP Authentication","searchable":true,"uuid":"c8933fbc-0748-47ce-9419-a2bbe1d2aafa"},"modified":true}}},"enabled_customer_defined_count":1,"enabled_customer_defined_max":30}}
+2024-11-05T23:08:53,676 DEBUG [http-nio-8082-exec-1]
+                    f.s.Slf4jLogger: [PindropClient#getAttributeDef] <--- END HTTP (6292-byte body)
+2024-11-05T23:08:53,689 ERROR [http-nio-8082-exec-1]
+                    c.n.n.p.c.s.PindropService: Error fetching attribute definitions: Cannot deserialize value of type `java.lang.String` from Object value (token `JsonToken.START_OBJECT`)
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 1] reading GET https://api2.pindrop.io/v1/attribute_definition
+2024-11-05T23:08:53,690 ERROR [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Failed to invoke /attributes : Cannot deserialize value of type `java.lang.String` from Object value (token `JsonToken.START_OBJECT`)
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 1] reading GET https://api2.pindrop.io/v1/attribute_definition
+2024-11-05T23:09:20,936 INFO  [http-nio-8082-exec-3]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-05T23:09:20,948 INFO  [http-nio-8082-exec-3]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Name 3 companies you have made an automatic or other bill payment to in the past 30days., For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., ACCOUNT TO ACCOUNT TRANSFERS ONLY – Do you have an automatic transfer and how much do you transfer to you savings account?, ZELLE USERS ONLY – Who was the last Zelle payment you made too?]
+2024-11-05T23:11:37,227 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-05T23:11:37,229 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[ZELLE USERS ONLY – Who was the last Zelle payment you made too?, For a recently written check (you call one out with the date and amount) – then you have the client confirm who/where that was written to? (should not be from the last five calendar days), For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days), What year was your account opened]
+2024-11-05T23:11:52,038 INFO  [http-nio-8082-exec-10]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-05T23:11:52,041 INFO  [http-nio-8082-exec-10]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[What year was your account opened, ACCOUNT TO ACCOUNT TRANSFERS ONLY – Do you have an automatic transfer and how much do you transfer to you savings account?, Amount of Last Deposit (within $100), Name 3 companies you have made an automatic or other bill payment to in the past 30days.]
+2024-11-05T23:11:56,369 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-05T23:11:56,371 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days), Name 3 companies you have made an automatic or other bill payment to in the past 30days., What year was your account opened, Amount of Last Deposit (within $100)]
+2024-11-05T23:12:21,105 INFO  [http-nio-8082-exec-8]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-05T23:12:21,107 INFO  [http-nio-8082-exec-8]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[What location was your account opened, ZELLE USERS ONLY – Who was the last Zelle payment you made too?, For a recently written check (you call one out with the date and amount) – then you have the client confirm who/where that was written to? (should not be from the last five calendar days), For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days)]
+2024-11-05T23:13:16,528 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-05T23:13:16,530 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Date of Last Deposit (within the last 5-7 days), For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days), For a recently written check (you call one out with the date and amount) – then you have the client confirm who/where that was written to? (should not be from the last five calendar days), ZELLE USERS ONLY – Who was the last Zelle payment you made too?]
+2024-11-05T23:14:07,405 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-05T23:14:07,408 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days), Amount of Last Deposit (within $100), For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., ZELLE USERS ONLY – Who was the last Zelle payment you made too?]
+2024-11-05T23:16:10,163 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-05T23:16:10,165 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[ACCOUNT TO ACCOUNT TRANSFERS ONLY – Do you have an automatic transfer and how much do you transfer to you savings account?, For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., Name 3 companies you have made an automatic or other bill payment to in the past 30days., What year was your account opened]
+2024-11-05T23:24:57,738 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-05T23:24:57,786 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:4
+2024-11-05T23:25:50,912 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-05T23:25:50,950 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:4
+2024-11-05T23:28:36,036 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-05T23:28:36,065 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:4
+2024-11-05T23:28:47,853 INFO  [http-nio-8082-exec-5]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-05T23:28:47,855 INFO  [http-nio-8082-exec-5]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:4
+2024-11-05T23:29:46,734 INFO  [http-nio-8082-exec-8]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-05T23:29:46,737 INFO  [http-nio-8082-exec-8]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:4
+2024-11-05T23:49:31,978 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-05T23:49:31,996 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[ZELLE USERS ONLY ? Who was the last Zelle payment you made too?, Name 3 companies you have made an automatic or other bill payment to in the past 30days., For a recently written check (you call one out with the date and amount) ? then you have the client confirm who/where that was written to? (should not be from the last five calendar days), What year was your account opened]
+2024-11-05T23:53:21,095 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-05T23:53:21,099 ERROR [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Failed to invoke /questions : java.lang.IllegalArgumentException: bound must be greater than origin
+2024-11-05T23:55:22,862 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-05T23:55:22,881 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[ZELLE USERS ONLY ? Who was the last Zelle payment you made too?]
+2024-11-05T23:55:22,882 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-05T23:55:22,884 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[ZELLE USERS ONLY – Who was the last Zelle payment you made too?]
+2024-11-05T23:58:04,736 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-05T23:58:04,749 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[ZELLE USERS ONLY ? Who was the last Zelle payment you made too?]
+2024-11-05T23:58:04,752 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-05T23:58:04,753 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[ZELLE USERS ONLY – Who was the last Zelle payment you made too?]
+2024-11-06T00:03:32,780 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T00:03:32,804 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[ZELLE USERS ONLY – Who was the last Zelle payment you made too?]
+2024-11-06T00:03:32,811 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T00:03:32,812 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[ZELLE USERS ONLY â€“ Who was the last Zelle payment you made too?]
+2024-11-06T00:05:36,570 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T00:05:36,611 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[What year was your account opened, For a recent debit card transaction (you call one out one with the date and amount) ? then you have the client confirm who\where that was from? (should not be from the last five calendar days), Name 3 companies you have made an automatic or other bill payment to in the past 30days., Date of last payment (LOANS ONLY)]
+2024-11-06T00:05:36,617 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T00:05:36,618 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[What year was your account opened, For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days), Name 3 companies you have made an automatic or other bill payment to in the past 30days., Date of last payment (LOANS ONLY)]
+2024-11-06T00:05:41,592 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T00:05:41,598 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[ACCOUNT TO ACCOUNT TRANSFERS ONLY ? Do you have an automatic transfer and how much do you transfer to you savings account?, For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., Date of Last Deposit (within the last 5-7 days), For a recent debit card transaction (you call one out one with the date and amount) ? then you have the client confirm who\where that was from? (should not be from the last five calendar days)]
+2024-11-06T00:05:41,599 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T00:05:41,600 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[ACCOUNT TO ACCOUNT TRANSFERS ONLY – Do you have an automatic transfer and how much do you transfer to you savings account?, For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., Date of Last Deposit (within the last 5-7 days), For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days)]
+2024-11-06T00:06:45,472 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T00:06:45,506 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[What location was your account opened, Date of last payment (LOANS ONLY), Name 3 companies you have made an automatic or other bill payment to in the past 30days., For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days)]
+2024-11-06T00:06:45,512 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T00:06:45,513 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[What location was your account opened, Date of last payment (LOANS ONLY), Name 3 companies you have made an automatic or other bill payment to in the past 30days., For a recent debit card transaction (you call one out one with the date and amount) â€“ then you have the client confirm who\where that was from? (should not be from the last five calendar days)]
+2024-11-06T00:06:50,070 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T00:06:50,079 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[For a recently written check (you call one out with the date and amount) – then you have the client confirm who/where that was written to? (should not be from the last five calendar days), What location was your account opened, Name 3 companies you have made an automatic or other bill payment to in the past 30days., Date of Last Deposit (within the last 5-7 days)]
+2024-11-06T00:06:50,082 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T00:06:50,082 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[For a recently written check (you call one out with the date and amount) â€“ then you have the client confirm who/where that was written to? (should not be from the last five calendar days), What location was your account opened, Name 3 companies you have made an automatic or other bill payment to in the past 30days., Date of Last Deposit (within the last 5-7 days)]
+2024-11-06T00:07:04,882 INFO  [http-nio-8082-exec-5]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T00:07:04,893 INFO  [http-nio-8082-exec-5]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., ZELLE USERS ONLY – Who was the last Zelle payment you made too?, For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days), Amount of Last Deposit (within $100)]
+2024-11-06T00:07:04,897 INFO  [http-nio-8082-exec-5]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T00:07:04,898 INFO  [http-nio-8082-exec-5]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., ZELLE USERS ONLY â€“ Who was the last Zelle payment you made too?, For a recent debit card transaction (you call one out one with the date and amount) â€“ then you have the client confirm who\where that was from? (should not be from the last five calendar days), Amount of Last Deposit (within $100)]
+2024-11-06T00:07:10,599 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T00:07:10,610 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[ACCOUNT TO ACCOUNT TRANSFERS ONLY – Do you have an automatic transfer and how much do you transfer to you savings account?, For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., Date of Last Deposit (within the last 5-7 days), Date of last payment (LOANS ONLY)]
+2024-11-06T00:07:10,614 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T00:07:10,615 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[ACCOUNT TO ACCOUNT TRANSFERS ONLY â€“ Do you have an automatic transfer and how much do you transfer to you savings account?, For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., Date of Last Deposit (within the last 5-7 days), Date of last payment (LOANS ONLY)]
+2024-11-06T00:07:26,241 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T00:07:26,359 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[What year was your account opened, Date of last payment (LOANS ONLY), Amount of Last Deposit (within $100), What location was your account opened]
+2024-11-06T00:07:26,362 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T00:07:26,363 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[What year was your account opened, Date of last payment (LOANS ONLY), Amount of Last Deposit (within $100), What location was your account opened]
+2024-11-06T00:07:33,058 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T00:07:33,062 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[ACCOUNT TO ACCOUNT TRANSFERS ONLY – Do you have an automatic transfer and how much do you transfer to you savings account?, Date of Last Deposit (within the last 5-7 days), For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days), ZELLE USERS ONLY – Who was the last Zelle payment you made too?]
+2024-11-06T00:07:33,063 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T00:07:33,064 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[ACCOUNT TO ACCOUNT TRANSFERS ONLY â€“ Do you have an automatic transfer and how much do you transfer to you savings account?, Date of Last Deposit (within the last 5-7 days), For a recent debit card transaction (you call one out one with the date and amount) â€“ then you have the client confirm who\where that was from? (should not be from the last five calendar days), ZELLE USERS ONLY â€“ Who was the last Zelle payment you made too?]
+2024-11-06T00:07:58,046 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T00:07:58,050 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., Amount of Last Deposit (within $100), For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days), Date of Last Deposit (within the last 5-7 days)]
+2024-11-06T00:07:58,051 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T00:07:58,052 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., Amount of Last Deposit (within $100), For a recent debit card transaction (you call one out one with the date and amount) â€“ then you have the client confirm who\where that was from? (should not be from the last five calendar days), Date of Last Deposit (within the last 5-7 days)]
+2024-11-06T00:08:02,819 INFO  [http-nio-8082-exec-8]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T00:08:02,825 INFO  [http-nio-8082-exec-8]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Amount of Last Deposit (within $100), What location was your account opened, For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days), For a recently written check (you call one out with the date and amount) – then you have the client confirm who/where that was written to? (should not be from the last five calendar days)]
+2024-11-06T00:08:02,825 INFO  [http-nio-8082-exec-8]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T00:08:02,826 INFO  [http-nio-8082-exec-8]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Amount of Last Deposit (within $100), What location was your account opened, For a recent debit card transaction (you call one out one with the date and amount) â€“ then you have the client confirm who\where that was from? (should not be from the last five calendar days), For a recently written check (you call one out with the date and amount) â€“ then you have the client confirm who/where that was written to? (should not be from the last five calendar days)]
+2024-11-06T00:08:10,221 INFO  [http-nio-8082-exec-10]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T00:08:10,225 INFO  [http-nio-8082-exec-10]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[For a recently written check (you call one out with the date and amount) – then you have the client confirm who/where that was written to? (should not be from the last five calendar days), Name 3 companies you have made an automatic or other bill payment to in the past 30days., For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days), Date of Last Deposit (within the last 5-7 days)]
+2024-11-06T00:08:10,230 INFO  [http-nio-8082-exec-10]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T00:08:10,231 INFO  [http-nio-8082-exec-10]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[For a recently written check (you call one out with the date and amount) â€“ then you have the client confirm who/where that was written to? (should not be from the last five calendar days), Name 3 companies you have made an automatic or other bill payment to in the past 30days., For a recent debit card transaction (you call one out one with the date and amount) â€“ then you have the client confirm who\where that was from? (should not be from the last five calendar days), Date of Last Deposit (within the last 5-7 days)]
+2024-11-06T00:08:12,378 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T00:08:12,381 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Date of Last Deposit (within the last 5-7 days), For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days), Amount of Last Deposit (within $100), Name 3 companies you have made an automatic or other bill payment to in the past 30days.]
+2024-11-06T00:08:12,384 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T00:08:12,386 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Date of Last Deposit (within the last 5-7 days), For a recent debit card transaction (you call one out one with the date and amount) â€“ then you have the client confirm who\where that was from? (should not be from the last five calendar days), Amount of Last Deposit (within $100), Name 3 companies you have made an automatic or other bill payment to in the past 30days.]
+2024-11-06T00:10:23,404 INFO  [http-nio-8082-exec-5]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T00:10:23,406 INFO  [http-nio-8082-exec-5]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[ZELLE USERS ONLY – Who was the last Zelle payment you made too?, What location was your account opened, Date of Last Deposit (within the last 5-7 days), ACCOUNT TO ACCOUNT TRANSFERS ONLY – Do you have an automatic transfer and how much do you transfer to you savings account?]
+2024-11-06T00:10:23,409 INFO  [http-nio-8082-exec-5]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T00:10:23,411 INFO  [http-nio-8082-exec-5]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[ZELLE USERS ONLY â€“ Who was the last Zelle payment you made too?, What location was your account opened, Date of Last Deposit (within the last 5-7 days), ACCOUNT TO ACCOUNT TRANSFERS ONLY â€“ Do you have an automatic transfer and how much do you transfer to you savings account?]
+2024-11-06T00:11:41,363 INFO  [http-nio-8082-exec-9]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T00:11:41,370 INFO  [http-nio-8082-exec-9]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., ACCOUNT TO ACCOUNT TRANSFERS ONLY – Do you have an automatic transfer and how much do you transfer to you savings account?, Name 3 companies you have made an automatic or other bill payment to in the past 30days., Amount of Last Deposit (within $100)]
+2024-11-06T00:11:41,371 INFO  [http-nio-8082-exec-9]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T00:11:41,371 INFO  [http-nio-8082-exec-9]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., ACCOUNT TO ACCOUNT TRANSFERS ONLY â€“ Do you have an automatic transfer and how much do you transfer to you savings account?, Name 3 companies you have made an automatic or other bill payment to in the past 30days., Amount of Last Deposit (within $100)]
+2024-11-06T15:28:16,110 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:28:16,189 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days), What location was your account opened, Name 3 companies you have made an automatic or other bill payment to in the past 30days., ZELLE USERS ONLY – Who was the last Zelle payment you made too?]
+2024-11-06T15:28:16,192 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:28:16,193 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[For a recent debit card transaction (you call one out one with the date and amount) â€“ then you have the client confirm who\where that was from? (should not be from the last five calendar days), What location was your account opened, Name 3 companies you have made an automatic or other bill payment to in the past 30days., ZELLE USERS ONLY â€“ Who was the last Zelle payment you made too?]
+2024-11-06T15:29:31,900 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:29:31,903 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Amount of Last Deposit (within $100), ZELLE USERS ONLY – Who was the last Zelle payment you made too?, ACCOUNT TO ACCOUNT TRANSFERS ONLY – Do you have an automatic transfer and how much do you transfer to you savings account?, Date of Last Deposit (within the last 5-7 days)]
+2024-11-06T15:29:31,908 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:29:31,910 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Amount of Last Deposit (within $100), ZELLE USERS ONLY â€“ Who was the last Zelle payment you made too?, ACCOUNT TO ACCOUNT TRANSFERS ONLY â€“ Do you have an automatic transfer and how much do you transfer to you savings account?, Date of Last Deposit (within the last 5-7 days)]
+2024-11-06T15:31:34,366 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:31:34,372 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[What location was your account opened, Name 3 companies you have made an automatic or other bill payment to in the past 30days., For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days)]
+2024-11-06T15:31:34,373 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:31:34,374 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[What location was your account opened, Name 3 companies you have made an automatic or other bill payment to in the past 30days., For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., For a recent debit card transaction (you call one out one with the date and amount) â€“ then you have the client confirm who\where that was from? (should not be from the last five calendar days)]
+2024-11-06T15:31:43,312 INFO  [http-nio-8082-exec-3]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:31:43,315 INFO  [http-nio-8082-exec-3]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Date of Last Deposit (within the last 5-7 days), What location was your account opened, For a recently written check (you call one out with the date and amount) – then you have the client confirm who/where that was written to? (should not be from the last five calendar days), For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days.]
+2024-11-06T15:31:43,316 INFO  [http-nio-8082-exec-3]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:31:43,316 INFO  [http-nio-8082-exec-3]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Date of Last Deposit (within the last 5-7 days), What location was your account opened, For a recently written check (you call one out with the date and amount) â€“ then you have the client confirm who/where that was written to? (should not be from the last five calendar days), For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days.]
+2024-11-06T15:31:45,468 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:31:45,472 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Date of Last Deposit (within the last 5-7 days), Name 3 companies you have made an automatic or other bill payment to in the past 30days., For a recently written check (you call one out with the date and amount) – then you have the client confirm who/where that was written to? (should not be from the last five calendar days), For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days)]
+2024-11-06T15:31:45,473 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:31:45,473 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Date of Last Deposit (within the last 5-7 days), Name 3 companies you have made an automatic or other bill payment to in the past 30days., For a recently written check (you call one out with the date and amount) â€“ then you have the client confirm who/where that was written to? (should not be from the last five calendar days), For a recent debit card transaction (you call one out one with the date and amount) â€“ then you have the client confirm who\where that was from? (should not be from the last five calendar days)]
+2024-11-06T15:32:04,825 INFO  [http-nio-8082-exec-9]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:32:04,828 INFO  [http-nio-8082-exec-9]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Amount of Last Deposit (within $100), Date of last payment (LOANS ONLY), ZELLE USERS ONLY – Who was the last Zelle payment you made too?, Name 3 companies you have made an automatic or other bill payment to in the past 30days.]
+2024-11-06T15:32:04,829 INFO  [http-nio-8082-exec-9]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:32:04,829 INFO  [http-nio-8082-exec-9]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Amount of Last Deposit (within $100), Date of last payment (LOANS ONLY), ZELLE USERS ONLY â€“ Who was the last Zelle payment you made too?, Name 3 companies you have made an automatic or other bill payment to in the past 30days.]
+2024-11-06T15:32:13,899 INFO  [http-nio-8082-exec-10]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:32:13,900 INFO  [http-nio-8082-exec-10]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[For a recently written check (you call one out with the date and amount) – then you have the client confirm who/where that was written to? (should not be from the last five calendar days), For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days), Date of Last Deposit (within the last 5-7 days), What location was your account opened]
+2024-11-06T15:32:13,901 INFO  [http-nio-8082-exec-10]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:32:13,901 INFO  [http-nio-8082-exec-10]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[For a recently written check (you call one out with the date and amount) â€“ then you have the client confirm who/where that was written to? (should not be from the last five calendar days), For a recent debit card transaction (you call one out one with the date and amount) â€“ then you have the client confirm who\where that was from? (should not be from the last five calendar days), Date of Last Deposit (within the last 5-7 days), What location was your account opened]
+2024-11-06T15:33:48,155 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:33:48,172 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Amount of Last Deposit (within $100), Name 3 companies you have made an automatic or other bill payment to in the past 30days., What location was your account opened, What year was your account opened]
+2024-11-06T15:33:48,173 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:33:48,174 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Amount of Last Deposit (within $100), Name 3 companies you have made an automatic or other bill payment to in the past 30days., What location was your account opened, What year was your account opened]
+2024-11-06T15:33:49,489 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:33:49,495 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Date of Last Deposit (within the last 5-7 days), ACCOUNT TO ACCOUNT TRANSFERS ONLY – Do you have an automatic transfer and how much do you transfer to you savings account?, Name 3 companies you have made an automatic or other bill payment to in the past 30days., What year was your account opened]
+2024-11-06T15:33:49,495 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:33:49,496 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Date of Last Deposit (within the last 5-7 days), ACCOUNT TO ACCOUNT TRANSFERS ONLY â€“ Do you have an automatic transfer and how much do you transfer to you savings account?, Name 3 companies you have made an automatic or other bill payment to in the past 30days., What year was your account opened]
+2024-11-06T15:33:51,656 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:33:51,658 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Date of last payment (LOANS ONLY), Amount of Last Deposit (within $100), What location was your account opened, Date of Last Deposit (within the last 5-7 days)]
+2024-11-06T15:33:51,659 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:33:51,661 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Date of last payment (LOANS ONLY), Amount of Last Deposit (within $100), What location was your account opened, Date of Last Deposit (within the last 5-7 days)]
+2024-11-06T15:33:52,689 INFO  [http-nio-8082-exec-8]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:33:52,693 INFO  [http-nio-8082-exec-8]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[ACCOUNT TO ACCOUNT TRANSFERS ONLY – Do you have an automatic transfer and how much do you transfer to you savings account?, Name 3 companies you have made an automatic or other bill payment to in the past 30days., Date of Last Deposit (within the last 5-7 days), ZELLE USERS ONLY – Who was the last Zelle payment you made too?]
+2024-11-06T15:33:52,694 INFO  [http-nio-8082-exec-8]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:33:52,695 INFO  [http-nio-8082-exec-8]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[ACCOUNT TO ACCOUNT TRANSFERS ONLY â€“ Do you have an automatic transfer and how much do you transfer to you savings account?, Name 3 companies you have made an automatic or other bill payment to in the past 30days., Date of Last Deposit (within the last 5-7 days), ZELLE USERS ONLY â€“ Who was the last Zelle payment you made too?]
+2024-11-06T15:33:54,484 INFO  [http-nio-8082-exec-3]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:33:54,491 INFO  [http-nio-8082-exec-3]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Date of last payment (LOANS ONLY), ACCOUNT TO ACCOUNT TRANSFERS ONLY – Do you have an automatic transfer and how much do you transfer to you savings account?, For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days), What location was your account opened]
+2024-11-06T15:33:54,492 INFO  [http-nio-8082-exec-3]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:33:54,492 INFO  [http-nio-8082-exec-3]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Date of last payment (LOANS ONLY), ACCOUNT TO ACCOUNT TRANSFERS ONLY â€“ Do you have an automatic transfer and how much do you transfer to you savings account?, For a recent debit card transaction (you call one out one with the date and amount) â€“ then you have the client confirm who\where that was from? (should not be from the last five calendar days), What location was your account opened]
+2024-11-06T15:33:57,535 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:33:57,542 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., ZELLE USERS ONLY – Who was the last Zelle payment you made too?, ACCOUNT TO ACCOUNT TRANSFERS ONLY – Do you have an automatic transfer and how much do you transfer to you savings account?, For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days)]
+2024-11-06T15:33:57,543 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:33:57,543 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., ZELLE USERS ONLY â€“ Who was the last Zelle payment you made too?, ACCOUNT TO ACCOUNT TRANSFERS ONLY â€“ Do you have an automatic transfer and how much do you transfer to you savings account?, For a recent debit card transaction (you call one out one with the date and amount) â€“ then you have the client confirm who\where that was from? (should not be from the last five calendar days)]
+2024-11-06T15:34:00,852 INFO  [http-nio-8082-exec-9]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:34:00,857 INFO  [http-nio-8082-exec-9]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Date of last payment (LOANS ONLY), For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., Name 3 companies you have made an automatic or other bill payment to in the past 30days., For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days)]
+2024-11-06T15:34:00,862 INFO  [http-nio-8082-exec-9]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:34:00,862 INFO  [http-nio-8082-exec-9]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Date of last payment (LOANS ONLY), For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., Name 3 companies you have made an automatic or other bill payment to in the past 30days., For a recent debit card transaction (you call one out one with the date and amount) â€“ then you have the client confirm who\where that was from? (should not be from the last five calendar days)]
+2024-11-06T15:34:15,217 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:34:15,224 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Date of Last Deposit (within the last 5-7 days), Date of last payment (LOANS ONLY), ACCOUNT TO ACCOUNT TRANSFERS ONLY – Do you have an automatic transfer and how much do you transfer to you savings account?, Amount of Last Deposit (within $100)]
+2024-11-06T15:34:15,225 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:34:15,227 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Date of Last Deposit (within the last 5-7 days), Date of last payment (LOANS ONLY), ACCOUNT TO ACCOUNT TRANSFERS ONLY â€“ Do you have an automatic transfer and how much do you transfer to you savings account?, Amount of Last Deposit (within $100)]
+2024-11-06T15:34:18,623 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:34:18,629 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[ACCOUNT TO ACCOUNT TRANSFERS ONLY – Do you have an automatic transfer and how much do you transfer to you savings account?, Date of Last Deposit (within the last 5-7 days), Amount of Last Deposit (within $100), ZELLE USERS ONLY – Who was the last Zelle payment you made too?]
+2024-11-06T15:34:18,630 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:34:18,634 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[ACCOUNT TO ACCOUNT TRANSFERS ONLY â€“ Do you have an automatic transfer and how much do you transfer to you savings account?, Date of Last Deposit (within the last 5-7 days), Amount of Last Deposit (within $100), ZELLE USERS ONLY â€“ Who was the last Zelle payment you made too?]
+2024-11-06T15:34:20,283 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:34:20,284 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Date of Last Deposit (within the last 5-7 days), For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days), Amount of Last Deposit (within $100), What location was your account opened]
+2024-11-06T15:34:20,291 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:34:20,293 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Date of Last Deposit (within the last 5-7 days), For a recent debit card transaction (you call one out one with the date and amount) â€“ then you have the client confirm who\where that was from? (should not be from the last five calendar days), Amount of Last Deposit (within $100), What location was your account opened]
+2024-11-06T15:34:22,044 INFO  [http-nio-8082-exec-3]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:34:22,046 INFO  [http-nio-8082-exec-3]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[ZELLE USERS ONLY – Who was the last Zelle payment you made too?, For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days), ACCOUNT TO ACCOUNT TRANSFERS ONLY – Do you have an automatic transfer and how much do you transfer to you savings account?, For a recently written check you call one out with the date and amount – then you have the client confirm who/where that was written to? (should not be from the last five calendar days)]
+2024-11-06T15:34:22,047 INFO  [http-nio-8082-exec-3]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:34:22,047 INFO  [http-nio-8082-exec-3]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[ZELLE USERS ONLY â€“ Who was the last Zelle payment you made too?, For a recent debit card transaction (you call one out one with the date and amount) â€“ then you have the client confirm who\where that was from? (should not be from the last five calendar days), ACCOUNT TO ACCOUNT TRANSFERS ONLY â€“ Do you have an automatic transfer and how much do you transfer to you savings account?, For a recently written check you call one out with the date and amount â€“ then you have the client confirm who/where that was written to? (should not be from the last five calendar days)]
+2024-11-06T15:35:26,558 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:35:26,571 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[For a recent debit card transaction (you call one out one with the date and amount)–then you have the client confirm who\where that was from? (should not be from the last five calendar days), For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., What year was your account opened, Date of Last Deposit (within the last 5-7 days)]
+2024-11-06T15:35:26,572 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:35:26,572 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[For a recent debit card transaction (you call one out one with the date and amount)â€“then you have the client confirm who\where that was from? (should not be from the last five calendar days), For a recent deposit (you call out one with the date and amount), then you have the client confirm who/where that way from? Should not be from the last five calendar days., What year was your account opened, Date of Last Deposit (within the last 5-7 days)]
+2024-11-06T15:37:37,365 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:37:37,386 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[For a recently written check (you call one out with the date and amount)â€“then you have the client confirm who/where that was written to? (should not be from the last five calendar days), What year was your account opened, For a recent debit card transaction (you call one out one with the date and amount)â€“then you have the client confirm who\where that was from? (should not be from the last five calendar days), Amount of Last Deposit (within $100)]
+2024-11-06T15:37:37,387 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:37:37,387 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[For a recently written check (you call one out with the date and amount)â€“then you have the client confirm who/where that was written to? (should not be from the last five calendar days), What year was your account opened, For a recent debit card transaction (you call one out one with the date and amount)â€“then you have the client confirm who\where that was from? (should not be from the last five calendar days), Amount of Last Deposit (within $100)]
+2024-11-06T15:37:52,453 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:37:52,456 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[For a recently written check (you call one out with the date and amount)â€“then you have the client confirm who/where that was written to? (should not be from the last five calendar days), Name 3 companies you have made an automatic or other bill payment to in the past 30days., ZELLE USERS ONLY â€“ Who was the last Zelle payment you made too?, Date of last payment (LOANS ONLY)]
+2024-11-06T15:37:52,465 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:37:52,466 INFO  [http-nio-8082-exec-6]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[For a recently written check (you call one out with the date and amount)â€“then you have the client confirm who/where that was written to? (should not be from the last five calendar days), Name 3 companies you have made an automatic or other bill payment to in the past 30days., ZELLE USERS ONLY â€“ Who was the last Zelle payment you made too?, Date of last payment (LOANS ONLY)]
+2024-11-06T15:39:22,116 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:39:22,137 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Date of Last Deposit (within the last 5-7 days), ZELLE USERS ONLY – Who was the last Zelle payment you made too?, Date of last payment (LOANS ONLY), ACCOUNT TO ACCOUNT TRANSFERS ONLY–Do you have an automatic transfer and how much do you transfer to you savings account?]
+2024-11-06T15:39:22,138 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:39:22,139 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Date of Last Deposit (within the last 5-7 days), ZELLE USERS ONLY â€“ Who was the last Zelle payment you made too?, Date of last payment (LOANS ONLY), ACCOUNT TO ACCOUNT TRANSFERS ONLYâ€“Do you have an automatic transfer and how much do you transfer to you savings account?]
+2024-11-06T15:42:22,458 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:42:22,473 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[What year was your account opened, Date of last payment (LOANS ONLY), Name 3 companies you have made an automatic or other bill payment to in the past 30days., For a recent debit card transaction (you call one out one with the date and amount)–then you have the client confirm who\where that was from? (should not be from the last five calendar days)]
+2024-11-06T15:42:22,474 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:42:22,475 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[What year was your account opened, Date of last payment (LOANS ONLY), Name 3 companies you have made an automatic or other bill payment to in the past 30days., For a recent debit card transaction (you call one out one with the date and amount)â€“then you have the client confirm who\where that was from? (should not be from the last five calendar days)]
+2024-11-06T15:42:31,868 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:42:31,876 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[What year was your account opened, ZELLE USERS ONLY – Who was the last Zelle payment you made too?, For a recent debit card transaction (you call one out one with the date and amount)–then you have the client confirm who\where that was from? (should not be from the last five calendar days), Name 3 companies you have made an automatic or other bill payment to in the past 30days.]
+2024-11-06T15:42:31,876 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:42:31,877 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[What year was your account opened, ZELLE USERS ONLY â€“ Who was the last Zelle payment you made too?, For a recent debit card transaction (you call one out one with the date and amount)â€“then you have the client confirm who\where that was from? (should not be from the last five calendar days), Name 3 companies you have made an automatic or other bill payment to in the past 30days.]
+2024-11-06T15:43:37,782 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:43:37,796 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Date of Last Deposit (within the last 5-7 days), Amount of Last Deposit (within $100), For a recent debit card transaction (you call one out one with the date and amount) – then you have the client confirm who\where that was from? (should not be from the last five calendar days), For a recently written check (you call one out with the date and amount) – then you have the client confirm who/where that was written to? (should not be from the last five calendar days)]
+2024-11-06T15:43:37,797 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:43:37,798 INFO  [http-nio-8082-exec-2]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Date of Last Deposit (within the last 5-7 days), Amount of Last Deposit (within $100), For a recent debit card transaction (you call one out one with the date and amount) â€“ then you have the client confirm who\where that was from? (should not be from the last five calendar days), For a recently written check (you call one out with the date and amount) â€“ then you have the client confirm who/where that was written to? (should not be from the last five calendar days)]
+2024-11-06T15:45:04,981 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:45:04,989 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Amount of Last Deposit (within $100), For a recently written check (you call one out with the date and amount) – then you have the client confirm who/where that was written to? (should not be from the last five calendar days), What year was your account opened, Date of Last Deposit (within the last 5-7 days)]
+2024-11-06T15:45:04,990 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:45:04,990 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Amount of Last Deposit (within $100), For a recently written check (you call one out with the date and amount) â€“ then you have the client confirm who/where that was written to? (should not be from the last five calendar days), What year was your account opened, Date of Last Deposit (within the last 5-7 days)]
+2024-11-06T15:47:17,107 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:47:17,122 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[ZELLE USERS ONLY – Who was the last Zelle payment you made too?, For a recent debit card transaction (you call one out one with the date and amount) - then you have the client confirm who\where that was from? (should not be from the last five calendar days), Date of last payment (LOANS ONLY), What location was your account opened]
+2024-11-06T15:47:17,125 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:47:17,125 INFO  [http-nio-8082-exec-1]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[ZELLE USERS ONLY â€“ Who was the last Zelle payment you made too?, For a recent debit card transaction (you call one out one with the date and amount) - then you have the client confirm who\where that was from? (should not be from the last five calendar days), Date of last payment (LOANS ONLY), What location was your account opened]
+2024-11-06T15:48:47,767 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:48:47,770 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Date of last payment (LOANS ONLY), For a recently written check (you call one out with the date and amount) - then you have the client confirm who/where that was written to? (should not be from the last five calendar days), Amount of Last Deposit (within $100), Name 3 companies you have made an automatic or other bill payment to in the past 30days.]
+2024-11-06T15:48:47,772 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:48:47,773 INFO  [http-nio-8082-exec-4]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Date of last payment (LOANS ONLY), For a recently written check (you call one out with the date and amount) - then you have the client confirm who/where that was written to? (should not be from the last five calendar days), Amount of Last Deposit (within $100), Name 3 companies you have made an automatic or other bill payment to in the past 30days.]
+2024-11-06T15:49:06,304 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Invoked /questions endpoint with risk_color: red
+2024-11-06T15:49:06,306 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Random Question List Size:[Date of Last Deposit (within the last 5-7 days), Name 3 companies you have made an automatic or other bill payment to in the past 30days., Date of last payment (LOANS ONLY), ACCOUNT TO ACCOUNT TRANSFERS ONLY–Do you have an automatic transfer and how much do you transfer to you savings account?]
+2024-11-06T15:49:06,307 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: ----------------------------------:
+2024-11-06T15:49:06,308 INFO  [http-nio-8082-exec-7]
+                    c.n.n.p.c.PindropController: Pindrop_Controller: Question List :[Date of Last Deposit (within the last 5-7 days), Name 3 companies you have made an automatic or other bill payment to in the past 30days., Date of last payment (LOANS ONLY), ACCOUNT TO ACCOUNT TRANSFERS ONLYâ€“Do you have an automatic transfer and how much do you transfer to you savings account?]
